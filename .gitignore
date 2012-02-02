@@ -1,0 +1,9 @@
+
+/lib
+/bin
+/DirectInput/Debug
+/DirectInput/ipch
+/DirectInput/Release
+/DirectInput/DirectInput.sdf
+/DirectInput/DirectInput.vcxproj.user
+/DirectInput/DirectInput.suo
